@@ -1,3 +1,3 @@
 # Personal Portfolio Webpage
 
-### [The Personal Portfolio from AFENTEX](https://iarobinson.github.io/useful-programmer-portfolio-page/)
+### [The Personal Portfolio from AFENTEX](https://afentex.github.io/personal-portfolio-webpage/)
